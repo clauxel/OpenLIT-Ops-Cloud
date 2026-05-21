@@ -1,0 +1,11 @@
+# OpenLIT Ops Cloud
+
+OpenLIT Ops Cloud is a SaaS workspace for LLM observability dashboard.
+
+Website: https://openlitops.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: LLM observability dashboard
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
